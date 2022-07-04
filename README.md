@@ -1,2 +1,2 @@
 # ProjectCPP
-A simple OOP example in C++
+This is a simple C++ example project to show basic OOP principles.
